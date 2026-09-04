@@ -45,7 +45,7 @@ Instagram **@kaukurabe** のリールを自動投稿する配信リポジトリ�
 | `IG_ACCESS_TOKEN` | システムユーザー `bizbot` のトークン。**`EAA...` で始まる**(検証済み) |
 | `IG_USER_ID` | Secrets の `IG_USER_ID` を参照(@kaukurabe) |
 
-**トークン失効日は未記入。** `debug_token` で確認してこの行に書くこと。更新手順は制作リポジトリの `HANDOFF.md` 冒頭。
+**トークンは 2026-11-03 13:36 に失効する(healthcheck 実測 2026-09-04)。**更新手順は制作リポジトリの `HANDOFF.md` 冒頭。
 
 **トークンの先頭を必ず確認すること。**
 `EAA...` = Facebook Login → ホストは `graph.facebook.com`(このリポジトリはこちら)
