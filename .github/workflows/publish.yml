@@ -66,3 +66,5 @@ jobs:
             git commit -m "chore: 投稿結果を記録"
             git push
           fi
+
+# hikaku-delivery(@kaukurabe)
