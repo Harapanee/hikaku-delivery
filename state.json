@@ -322,6 +322,8 @@
  "048_20260928_1900": {
   "container_created_at": "2026-09-28T03:57:23.980265+09:00",
   "container_id": "18117134401856131",
-  "status": "prepared"
+  "media_id": "18210725476361850",
+  "published_at": "2026-09-28T18:29:33.760999+09:00",
+  "status": "published"
  }
 }
