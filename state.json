@@ -350,6 +350,8 @@
  "052_20260930_1900": {
   "container_created_at": "2026-09-30T04:51:39.834159+09:00",
   "container_id": "18117757927856131",
-  "status": "prepared"
+  "media_id": "18112465034155644",
+  "published_at": "2026-09-30T18:26:11.898841+09:00",
+  "status": "published"
  }
 }
